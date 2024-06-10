@@ -1,1 +1,1 @@
-# microservice-config
+# eazybytes-config
